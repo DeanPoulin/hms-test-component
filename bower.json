@@ -1,0 +1,17 @@
+{
+  "name": "hms-test-component",
+  "version": "0.0.1",
+  "homepage": "https://github.com/DeanPoulin/hms-test-component",
+  "authors": [
+    "Dean Poulin <dean.poulin@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "components",
+    "test",
+    "tests"
+  ]
+}
